@@ -1,0 +1,1 @@
+根据 /Users/ligl/10.try_workspace/design_document.md /Users/ligl/10.try_workspace/newprompt_20251205_142522.md 生成详细需求。
